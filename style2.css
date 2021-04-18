@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+     text-align: center;
+}
+img{
+    width: 250px;
+    height: 200px;
+}
+ul{
+text-align: center;
+   position: absolute;
+}
